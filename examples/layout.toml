@@ -1,0 +1,7 @@
+# A small stockroom: 8 aisles, 20 bays deep, 1.2 m per bay, aisles 3 m apart.
+# The depot (packing bench) is at the front of aisle 1.
+aisles = 8
+bays_per_aisle = 20
+bay_length = 1.2
+aisle_spacing = 3.0
+depot_x = 0.0
