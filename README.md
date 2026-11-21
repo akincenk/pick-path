@@ -1,5 +1,8 @@
 # pick-path
 
+[![CI](https://github.com/akincenk/pick-path/actions/workflows/ci.yml/badge.svg)](https://github.com/akincenk/pick-path/actions/workflows/ci.yml)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/akincenk/pick-path/badge)](https://scorecard.dev/viewer/?uri=github.com/akincenk/pick-path)
+
 Plan the walk for an order picker in a warehouse with parallel aisles. Give it a layout and a pick list, and it puts the picks in walking order and tells you how many metres the route is. It can also compare the common routing methods on the same list, so you can see what a better route would save before changing how people pick.
 
 ## Who it is for
